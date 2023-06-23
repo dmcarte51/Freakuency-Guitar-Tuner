@@ -1,4 +1,42 @@
 <resources>
     <string name="app_name">Freakuency Guitar Tuner</string>
+    <string name="action_settings">Settings</string>
 
+    <!-- Notes -->
+    <string name="c_2">C2</string>
+    <string name="c_sharp_2">C#2</string>
+    <string name="d_2">D2</string>
+    <string name="d_sharp_2">D#2</string>
+    <string name="e_2">E2</string>
+    <string name="f_2">F2</string>
+    <string name="f_sharp_2">F#2</string>
+    <string name="g_2">G2</string>
+    <string name="g_sharp_2">G#2</string>
+    <string name="a_2">A2</string>
+    <string name="a_sharp_2">A#2</string>
+    <string name="b_2">B2</string>
+    <string name="c_3">C3</string>
+    <string name="c_sharp_3">C#3</string>
+    <string name="d_3">D3</string>
+    <string name="d_sharp_3">D#3</string>
+    <string name="e_3">E3</string>
+    <string name="f_3">F3</string>
+    <string name="f_sharp_3">F#3</string>
+    <string name="g_3">G3</string>
+    <string name="g_sharp_3">G#3</string>
+    <string name="a_3">A3</string>
+    <string name="a_sharp_3">A#3</string>
+    <string name="b_3">B3</string>
+    <string name="c_4">C4</string>
+    <string name="c_sharp_4">C#4</string>
+    <string name="d_4">D4</string>
+    <string name="d_sharp_4">D#4</string>
+    <string name="e_4">E4</string>
+    <string name="f_4">F4</string>
+    <string name="f_sharp_4">F#4</string>
+    <string name="g_4">G4</string>
+    <string name="g_sharp_4">G#4</string>
+    <string name="a_4">A4</string>
+    <string name="a_sharp_4">A#4</string>
+    <string name="b_4">B4</string>
 </resources>
